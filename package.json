@@ -1,0 +1,25 @@
+{
+  "name": "web3-peppeteer-util",
+  "version": "1.0.0",
+  "description": "web3 peppeteer util ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evil001604/web3-peppeteer-util.git"
+  },
+  "keywords": ["web3","puppeteer","util"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chainsafe/dappeteer": "^5.2.1",
+    "axios": "^1.6.8",
+    "base-validation-library": "^1.0.10",
+    "ethers": "^6.11.1",
+    "puppeteer": "^22.6.1",
+    "qs": "^6.12.0",
+    "web3-script-util": "^1.0.0"
+  }
+}
